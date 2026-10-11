@@ -16,7 +16,7 @@ Built with [`psutil`](https://github.com/giampaolo/psutil) and [`rich`](https://
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/sysmon.git
+git clone https://github.com/l0n3lyy/sysmon.git
 cd sysmon
 pip install -r requirements.txt
 ```
